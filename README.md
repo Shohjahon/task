@@ -1,5 +1,5 @@
 # Task
-**Spring Boot, Akka actors and CLI multi-module**
+**Spring Boot, Akka actors and CLI multi-module demo application**
 
 **Help**
 1. Before running ```api-service``` build project using following Maven command ```mvn -DskipTests=true clean install``` and put ```run_api_service.sh bash``` script and  
